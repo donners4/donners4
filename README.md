@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @donners4
+- 👀 I’m interested in ... VFX / Datascience
+- 🌱 I’m currently learning ... Python / C++ / SQL
